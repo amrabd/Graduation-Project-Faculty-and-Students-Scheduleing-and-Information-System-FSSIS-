@@ -121,6 +121,7 @@ The project was inspired by the need to:
 ## 🌐 **Links**
 
 - [GitHub Repository](https://github.com/amrabd/Graduation-Project-Faculty-and-Students-Scheduleing-and-Information-System-FSSIS-)
+- [LinkedIn](https://www.linkedin.com/in/amrabdo1102002/)
 - [Notion](https://www.notion.so/Faculty-and-Students-Scheduling-Information-System-FSSIS-c2211d5b22f342bdbdd15836b4ef4094)
 - [Figma Design](https://www.figma.com/design/Y8BZY7B1nkdEBTxhCOIxiA/FSSIS?node-id=0-1&node-type=canvas&t=664M6sAJcs7GVMaR-0)
 - [Documentation](https://drive.google.com/file/d/1Y6V0WlLU8MUJiGIg-Dda-yQoD9jkwfb6/view?usp=drive_link) 
