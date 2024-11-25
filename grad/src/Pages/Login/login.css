@@ -1,0 +1,13 @@
+.login {
+    background-image: url('/public/Images/Login/wave.png');
+    background-repeat: no-repeat;
+    background-size: 100% 650px;
+}
+
+input:focus~svg path {
+    fill: #0166ff
+}
+
+.bbb {
+    border-bottom: 4px solid #d8d8d8;
+}

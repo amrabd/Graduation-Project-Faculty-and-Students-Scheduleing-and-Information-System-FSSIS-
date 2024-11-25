@@ -1,0 +1,8 @@
+/* toastifyOverrides.css */
+.Toastify__toast {
+    display: flex;
+    align-items: left;
+    justify-content: left;
+    width: 50dvw;
+  }
+  

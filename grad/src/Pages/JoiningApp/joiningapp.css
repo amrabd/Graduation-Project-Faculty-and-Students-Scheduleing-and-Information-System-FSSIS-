@@ -1,0 +1,19 @@
+.bd {
+    direction: rtl;
+}
+
+.l {
+    font-weight: bold;
+    font-size: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+input::placeholder {
+    font-size: 20px
+}
+
+fieldset {
+    width: 100%;
+    padding-right: 10px;
+}

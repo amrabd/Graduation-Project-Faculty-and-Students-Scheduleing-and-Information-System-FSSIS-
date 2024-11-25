@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "7NuoHVcVZw5YpTHBKE8oKnxPbkeQWzB0VZxEwN9zrjA=",
+  "Source": "Final",
+  "BasePath": "_content/Final",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Final\\wwwroot",
+      "Source": "Final",
+      "ContentRoot": "E:\\FCI\\Data level 4\\Graduation Project [Faculty and Students Scheduleing and Information System(FSSIS)]\\Project\\Final\\Final\\wwwroot\\",
+      "BasePath": "_content/Final",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
