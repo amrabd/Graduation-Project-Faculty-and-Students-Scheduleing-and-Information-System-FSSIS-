@@ -1,6 +1,6 @@
-# College Scheduling System
+# Faculty and Students Scheduleing and Information System
 
-The **College Scheduling System** is a comprehensive platform designed to streamline the scheduling and organization of lectures, sessions, and resources within a college environment. This system caters to five primary user groups—**Students**, **Professors**, **Teaching Assistants**, **IT Technicians**, and the **Scheduling Committee (Admin)**—providing tailored functionalities to enhance efficiency, transparency, and the user experience.
+The **Faculty and Students Scheduleing and Information System** is a comprehensive platform designed to streamline the scheduling and organization of lectures, sessions, and resources within a college environment. This system caters to five primary user groups—**Students**, **Professors**, **Teaching Assistants**, **IT Technicians**, and the **Scheduling Committee (Admin)**—providing tailored functionalities to enhance efficiency, transparency, and the user experience.
 
 ---
 
